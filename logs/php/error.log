@@ -1,0 +1,503 @@
+[14-Oct-2025 22:06:58 UTC] Array
+(
+    [wp_latepoint_customer_otp_codes] => Created table wp_latepoint_customer_otp_codes
+)
+
+[14-Oct-2025 22:06:58 UTC] Array
+(
+    [wp_latepoint_recurrences] => Created table wp_latepoint_recurrences
+)
+
+[14-Oct-2025 22:06:58 UTC] Array
+(
+    [wp_latepoint_steps] => Created table wp_latepoint_steps
+)
+
+[14-Oct-2025 22:06:58 UTC] Array
+(
+    [wp_latepoint_carts] => Created table wp_latepoint_carts
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_cart_items] => Created table wp_latepoint_cart_items
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_orders] => Created table wp_latepoint_orders
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_order_items] => Created table wp_latepoint_order_items
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_order_intents] => Created table wp_latepoint_order_intents
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_order_invoices] => Created table wp_latepoint_order_invoices
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_payment_requests] => Created table wp_latepoint_payment_requests
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_process_jobs] => Created table wp_latepoint_process_jobs
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_sessions] => Created table wp_latepoint_sessions
+)
+
+[14-Oct-2025 22:06:59 UTC] Array
+(
+    [wp_latepoint_bookings] => Created table wp_latepoint_bookings
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_blocked_periods] => Created table wp_latepoint_blocked_periods
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_cart_meta] => Created table wp_latepoint_cart_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_order_meta] => Created table wp_latepoint_order_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_booking_meta] => Created table wp_latepoint_booking_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_processes] => Created table wp_latepoint_processes
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_service_meta] => Created table wp_latepoint_service_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_customer_meta] => Created table wp_latepoint_customer_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_agent_meta] => Created table wp_latepoint_agent_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_bundle_meta] => Created table wp_latepoint_bundle_meta
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_settings] => Created table wp_latepoint_settings
+)
+
+[14-Oct-2025 22:07:00 UTC] Array
+(
+    [wp_latepoint_locations] => Created table wp_latepoint_locations
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_location_categories] => Created table wp_latepoint_location_categories
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_bundles] => Created table wp_latepoint_bundles
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_bundles_services] => Created table wp_latepoint_bundles_services
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_services] => Created table wp_latepoint_services
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_agents] => Created table wp_latepoint_agents
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_step_settings] => Created table wp_latepoint_step_settings
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_customers] => Created table wp_latepoint_customers
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_service_categories] => Created table wp_latepoint_service_categories
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_custom_prices] => Created table wp_latepoint_custom_prices
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_work_periods] => Created table wp_latepoint_work_periods
+)
+
+[14-Oct-2025 22:07:01 UTC] Array
+(
+    [wp_latepoint_agents_services] => Created table wp_latepoint_agents_services
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+    [wp_latepoint_activities] => Created table wp_latepoint_activities
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+    [wp_latepoint_transaction_intents] => Created table wp_latepoint_transaction_intents
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+    [wp_latepoint_transactions] => Created table wp_latepoint_transactions
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+    [wp_latepoint_transaction_refunds] => Created table wp_latepoint_transaction_refunds
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+    [wp_latepoint_customer_otp_codes.otp_hash] => Changed type of wp_latepoint_customer_otp_codes.otp_hash from varchar(255) to VARCHAR(255)
+    [wp_latepoint_customer_otp_codes.used_at] => Changed type of wp_latepoint_customer_otp_codes.used_at from datetime to DATETIME
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+    [wp_latepoint_steps.use_custom_image] => Changed type of wp_latepoint_steps.use_custom_image from tinyint(1) to boolean
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:02 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+    [wp_latepoint_services.is_price_variable] => Changed type of wp_latepoint_services.is_price_variable from tinyint(1) to boolean
+    [wp_latepoint_services.is_deposit_required] => Changed type of wp_latepoint_services.is_deposit_required from tinyint(1) to boolean
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+    [wp_latepoint_agents.custom_hours] => Changed type of wp_latepoint_agents.custom_hours from tinyint(1) to boolean
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+    [wp_latepoint_customers.is_guest] => Changed type of wp_latepoint_customers.is_guest from tinyint(1) to boolean
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:03 UTC] Array
+(
+    [wp_latepoint_custom_prices.is_price_variable] => Changed type of wp_latepoint_custom_prices.is_price_variable from tinyint(1) to boolean
+    [wp_latepoint_custom_prices.is_deposit_required] => Changed type of wp_latepoint_custom_prices.is_deposit_required from tinyint(1) to boolean
+)
+
+[14-Oct-2025 22:07:04 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:04 UTC] Array
+(
+    [wp_latepoint_agents_services.is_custom_hours] => Changed type of wp_latepoint_agents_services.is_custom_hours from tinyint(1) to BOOLEAN
+    [wp_latepoint_agents_services.is_custom_price] => Changed type of wp_latepoint_agents_services.is_custom_price from tinyint(1) to BOOLEAN
+    [wp_latepoint_agents_services.is_custom_duration] => Changed type of wp_latepoint_agents_services.is_custom_duration from tinyint(1) to BOOLEAN
+)
+
+[14-Oct-2025 22:07:04 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:04 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:04 UTC] Array
+(
+)
+
+[14-Oct-2025 22:07:04 UTC] Array
+(
+)
+
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:47 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:53 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:56 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:22:57 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[14-Oct-2025 22:23:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[21-Oct-2025 21:18:24 UTC] PHP Warning:  Undefined array key 1 in C:\Users\INMSA ARGO\Local Sites\dscodigo\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
