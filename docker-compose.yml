@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  wordpress:
+    image: wordpress:6.8.3-php8.2-apache
+    container_name: wp_dscodigo_container
+    ports:
+      - "8000:80"               # WordPress estará en http://localhost:8000
+    volumes:
+      - ./html:/var/www/html    # carpeta app de WordPress
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: zebra
+      WORDPRESS_DB_PASSWORD: 'PuercuespindScodigO'
+      WORDPRESS_DB_NAME: local
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.0.35
+    container_name: wp_db_container
+    ports:
+      - "10005:3306"            # MySQL accesible en localhost:10005 si quieres
+    volumes:
+      - ./wp-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 'PuercuespindScodigO'
+      MYSQL_DATABASE: local
+      MYSQL_USER: zebra
+      MYSQL_PASSWORD: 'PuercuespindScodigO'
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin_container
+    environment:
+      PMA_HOST: db
+      PMA_USER: zebra
+      PMA_PASSWORD: 'PuercuespindScodigO'
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
